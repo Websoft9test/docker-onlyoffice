@@ -56,7 +56,7 @@ services:
      
   onlyoffice-document-server:
     container_name: ${APP_CONTAINER_NAME}-docs
-    image: onlyoffice/documentserver:6.0.2
+    image: onlyoffice/documentserver:7.0
     stdin_open: true
     tty: true
     restart: always
