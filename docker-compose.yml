@@ -80,7 +80,7 @@ services:
     depends_on:
      - onlyoffice-document-server
      - onlyoffice-community-server
-    image: onlyoffice/controlpanel:2.9.0.351
+    image: onlyoffice/controlpanel:3.0.3.410
     environment:
      - ONLYOFFICE_CORE_MACHINEKEY=core_secret
     expose:
