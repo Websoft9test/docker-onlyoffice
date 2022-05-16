@@ -1,7 +1,6 @@
 # this file from docker-compose.workspace, delete mail-server
 # default MySQL root password is 123456
 
-
 version: '3.8'
 services:
   onlyoffice-mysql-server:
