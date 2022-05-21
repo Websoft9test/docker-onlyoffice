@@ -1,5 +1,5 @@
-# this file from docker-compose.workspace, delete mail-server
-# default MySQL root password is 123456
+# image: https://hub.docker.com/r/onlyoffice/communityserver
+# docs: https://github.com/ONLYOFFICE/Docker-CommunityServer
 
 version: '3.8'
 services:
