@@ -1,7 +1,7 @@
 {
   "name": "onlyoffice",
   "trademark": "ONLYOFFICE",
-  "installpath": "/data/wwwroot/onlyoffice",
+  "installpath": "/data/apps/onlyoffice",
   "compose_file": "docker-compose.yml",
   "env_file": ".env",
   "fork_url": "https://github.com/ONLYOFFICE/Docker-CommunityServer.git",
